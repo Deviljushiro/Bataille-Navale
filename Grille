@@ -1,0 +1,9 @@
+class Grille:
+
+    def __init__(self, listX=list(), listY=list()):
+
+        self.listX=listX
+        self.listY=listY
+
+        getPos(self):
+            return 
